@@ -23,7 +23,6 @@ ocp-w-1.ocp4.massuite.online.        IN      A      10.10.10.211
 ocp-w-2.ocp4.massuite.online.        IN      A      10.10.10.212
 ocp-w-3.ocp4.massuite.online.        IN      A      10.10.10.213
 ocp-w-4.ocp4.massuite.online.        IN      A      10.10.10.214
-ocp-w-5.ocp4.massuite.online.        IN      A      10.10.10.215
 
 ; OpenShift Internal - Load balancer
 api.ocp4.massuite.online.        IN    A    10.10.10.2
